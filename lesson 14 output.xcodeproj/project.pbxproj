@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		BD5E659C2DC063E6007E7D62 /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5E659B2DC063E6007E7D62 /* Friend.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		BD5E657F2DC05146007E7D62 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		BD5E656E2DC05143007E7D62 /* lesson 14 output.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "lesson 14 output.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD5E657E2DC05146007E7D62 /* lesson 14 outputTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "lesson 14 outputTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD5E65882DC05146007E7D62 /* lesson 14 outputUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "lesson 14 outputUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD5E659B2DC063E6007E7D62 /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friend.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		BD5E65652DC05143007E7D62 = {
 			isa = PBXGroup;
 			children = (
+				BD5E659B2DC063E6007E7D62 /* Friend.swift */,
 				BD5E65702DC05143007E7D62 /* lesson 14 output */,
 				BD5E65812DC05146007E7D62 /* lesson 14 outputTests */,
 				BD5E658B2DC05146007E7D62 /* lesson 14 outputUITests */,
@@ -236,6 +242,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD5E659C2DC063E6007E7D62 /* Friend.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
